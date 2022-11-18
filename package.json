@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@storybook/react": "^5.1.11",
+    "@storybook/react": "^6.5.13",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "typescript": "^3.5.3"
